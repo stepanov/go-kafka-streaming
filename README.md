@@ -53,7 +53,3 @@ You can also use the `Makefile` targets:
 - `make topic-describe TOPIC=my-topic`
 - `make topic-alter TOPIC=my-topic PARTITIONS=6`
 - Topics are auto-created by the broker if allowed; you can also create topics manually if desired.
-
----
-
-If you want, I can add an admin utility to create topics explicitly or wire in TLS/SASL examples. ✅
